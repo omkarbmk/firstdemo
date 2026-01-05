@@ -1,6 +1,6 @@
 i modified f1.txt
 
-//132 story
+int i=32
 
 added changes to check stash
 
