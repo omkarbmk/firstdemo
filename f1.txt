@@ -1,5 +1,12 @@
 i modified f1.txt
 
+<<<<<<< Updated upstream
 //132 story
 
 added changes to check stash
+=======
+// 121 story 
+a=121
+b=232
+
+>>>>>>> Stashed changes
